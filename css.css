@@ -1,0 +1,16 @@
+#imie{
+    border: double 2px red;
+color: red;
+}
+
+#nazwisko{
+    border: solid 2px green;
+    color: green;
+}
+
+#przycisk{
+
+    border-radius: 25px;
+    background-image: url("https://yt3.ggpht.com/ytc/AKedOLTSUD0Gc_lo05OTd6hH-3L-mVqiOiopqoFrl5Ku=s900-c-k-c0x00ffffff-no-rj");
+}
+
